@@ -1,6 +1,6 @@
 site:
   name: WebDesigner
-  site: 'https://astrowind.vercel.app'
+  site: 'https://ilyajen.art'
   base: '/'
   trailingSlash: false
 
