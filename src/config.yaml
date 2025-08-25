@@ -9,16 +9,16 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: WebDesigner
+    template: 'WebDesigner'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: ilyajen
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/hero-image.png'
         width: 1200
         height: 628
     type: website
